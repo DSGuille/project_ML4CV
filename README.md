@@ -26,7 +26,7 @@ This project runs on **Kaggle** with GPU acceleration.
 1. Open `main.ipynb` on Kaggle.
 2. Add all five datasets listed above as inputs.
 3. Enable GPU accelerator (Settings → Accelerator → GPU T4 x2).
-4. Run all cells. Training cells are disabled by default — the notebook loads pre-trained weights and runs inference directly.
+4. Run all cells. Training cells are disabled by default, the notebook loads pre-trained weights and runs inference directly.
 
 ## File Paths (automatically set by Kaggle)
 
